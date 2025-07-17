@@ -37,6 +37,7 @@ These templates are designed to be loaded directly onto your Roto-Control to con
 Current templates cover (but are not limited to) plugins from the following developers:
 
 - **Ableton Live** (stock devices)
+- **AAS**
 - **Softube**
 - **Universal Audio (UAD/UADx)**
 - **GForce Software**
